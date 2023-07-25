@@ -1,10 +1,10 @@
 # Github_Search_Automation_Cucumber
 
-## Technology used:
+## Technology used
 - Java
 - Intellij idea
 
-## Framework used:
+## Framework used
 - Cucumber
 - JUnit
 
@@ -19,13 +19,44 @@ The following terms should be passed from the Example,
 1. create-react-app
 2. facebook/create-create-app
 
+## Prerequisite
+  - Some maven dependency is must for run this project
+  These are: 
+ ```
+ <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.10.0</version>
+        </dependency>
+ ```
+ ```
+ <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>7.13.0</version>
+        </dependency>
+```
+```
+ <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>7.13.0</version>
+            <scope>test</scope>
+        </dependency>
+```
+
 ## How to run this project
-- Clone this project
-- To run and generate report hit this following command ```gradle clean test```
+ - Clone this project [Web-Automation-with-Selenium_Cucumber](https://github.com/ahnafahmad/Web-Automation-With-Selenium-Cucumber.git)
+ - Hit the following command:
+  ```
+   gradle clean test
+ ```
 
-## Report
-![Cucumber_report](https://github.com/fariha28345/Github_Search_Automation_Cucumber/assets/50767962/7c7df065-ab95-4b15-a1e5-08a4f58bd5e9)
+## Project Report
+https://drive.google.com/file/d/1sQmo90ykrUeasLx8LoiWMw3b_CeI0NqS/view?usp=drive_link
 
-## Output Video
-https://github.com/fariha28345/Github_Search_Automation_Cucumber/assets/50767962/e901e10c-ce79-42a2-ac1c-3fba90bbe3b3
+## Project Output Video
+https://drive.google.com/file/d/1thIVcM2FPyEmmWn1DESgLL3l0FZLJJCF/view?usp=drive_link
 
