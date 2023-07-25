@@ -48,7 +48,7 @@ The following terms should be passed from the Example,
 ```
 
 ## How to run this project
- - Clone this project [Web-Automation-with-Selenium_Cucumber](https://github.com/ahnafahmad/Web-Automation-With-Selenium-Cucumber.git)
+ - Clone this project [Github_Search_Automation_Cucumber](https://github.com/Maria-Akther-Mimi/Cucumber_Project_Github_Search)
  - Hit the following command:
   ```
    gradle clean test
